@@ -31,4 +31,3 @@ find . -depth | while read fname; do
         mv "$fname" "$dir/$newbase"
     fi
 done
-

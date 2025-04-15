@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "post-state/bigtech-power/soft-laws.md",
+                "file": "Protesty-v-Hazi_-analiz-ekspertiv_.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "soft-laws"
+              "title": "Protesty-v-Hazi_-analiz-ekspertiv_"
+            }
+          },
+          {
+            "id": "0eeb28fe3a2b2bb5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "war-ua/combat-performance/2023/krynky/planning.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "planning"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -177,39 +192,44 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a5cbe1fb15158005",
+  "active": "0eeb28fe3a2b2bb5",
   "lastOpenFiles": [
-    "post-state/bigtech-power/README.md",
-    "post-state/bigtech-power/infrastructure-control.md",
-    "post-state/bigtech-power/info-domination.md",
-    "post-state/bigtech-power/black-budget.md",
-    "post-state/bigtech-power/ai-regime.md",
-    "psyops/russia-lost-ghosts.md",
-    "psyops/README.md",
-    "psyops/psychowar.md",
-    "military-failures/NATO-manifesto.md",
-    "upa-sbu/structure.md",
-    "upa-sbu/README.md",
-    "upa-sbu/methods.md",
-    "upa-sbu/evolution.md",
-    "upa-sbu/comparative-analysis.md",
-    "gray-memory-tactics.md",
-    "gray_manifesto.md",
-    "ua-war/combat-performance/2023/krynky/planning.md",
-    "ua-war/combat-performance/2023/krynky/logistics.md",
-    "cyber-sec/cloud-risk-ops.md",
-    "cyber-sec/cloud-failures.md",
-    "series-global-psyop.md",
-    "README.md",
-    "index.md",
-    "blocking-censorship/dsr-letter.md",
-    "blocking-censorship",
-    "usa/trump/deep-state-vs-truth.md",
-    "usa/trump/README.md",
-    "cyber-sec",
-    "nato-fails",
-    "ua-war",
-    "china",
-    "usa"
+    "war-ua/combat-performance/2023/krynky/Operatsiia-ukrainskoi-morskoi-pikhoty-v-Krynkakh.md",
+    "war-ua/combat-performance/2023/krynky/logistics.md",
+    "war-ua/Nashi-za-kordonom/Ukraintsi-u-chechenskykh-viinakh._.md",
+    "war-ua/Nashi-za-kordonom/Ukraintsi-v-Konho_-detalnyi-zapyt._.md",
+    "war-ua/Nashi-za-kordonom/Ukraintsi-v-Nahirno-Karabaskii-viini_.md",
+    "war-ua/Nashi-za-kordonom/Ukraintsi-v-pryvatnykh-viiskovykh-kompaniiakh_.md",
+    "war-ua/Nashi-za-kordonom/Viiskovi-konflikty_-uchast-Ukrainy_.md",
+    "war-ua/Nashi-za-kordonom/Ukraintsi-v-TsAR_-Misiia-MINUSCA_.md",
+    "war-ua/Nashi-za-kordonom/Ukraina-v-misii-UNOCI_.md",
+    "Nashi-za-kordonom/Ukraina-v-misii-UNOCI_(1).md",
+    "war-ua/Nashi-za-kordonom/Ukraina-v-misii-UNFICYP._.md",
+    "Nashi-za-kordonom/Ukraina-v-misii-UNFICYP._(1).md",
+    "war-ua/Nashi-za-kordonom/Ukraina-ta-viina-v-Prydnistrov_i_.md",
+    "war-ua/Nashi-za-kordonom/Ukraina-ta-misiia-UNIFIL_.md",
+    "war-ua/Nashi-za-kordonom/Ukraina_-Liviia,-Syriia,-Tymor_.md",
+    "war-ua/Nashi-za-kordonom/Operatsiia-Kabulskyi-Pryvyd.md",
+    "war-ua/Nashi-za-kordonom/2025-03-30_22-07-41_ChatGPT_Uchast-Ukrainy-u-myrotvorchykh-misiiakh-v-Livani-ta-sumizhnykh....md",
+    "war-ua/Nashi-za-kordonom/_Viiskovi-konflikty_-uchast-Ukrainy_.md",
+    "war-ua/Boiovi-provaly-ZSU.md",
+    "war-ua/Boiovi-provaly-ZSU-v-ATO.md",
+    "war-ua/Реально працюючі методики згуртування.md",
+    "war-ua/Бойові провали ЗСУ в АТО.md",
+    "war-ua/unit-cohesion-cases.md",
+    "war-ua/ua-battle-failures.md",
+    "war-ua/Belgorod-OSINT-Analysis,-2025_.md",
+    "war-ua/Bilhorod.-Pershyi-raund-—-i-ne-ostannii-HIMARS-po-iaitsiakh,-drony-po-tylakh.md",
+    "news",
+    "Дослідження/YouTube_ політичні закриття каналів_(1).docx",
+    "Дослідження/YouTube_ політичні закриття каналів_.docx",
+    "Дослідження/Чутливі теми TikTok та YouTube_.docx",
+    "Дослідження/Світові новини_ огляд подій._.docx",
+    "Дослідження/Російські війни_ безкарність до України._.docx",
+    "Дослідження/Промпти для музики в Suno_.docx",
+    "Дослідження/Згуртування військових підрозділів_ методики та помилки_.docx",
+    "Дослідження/Військові провали РФ на Донбасі._.docx",
+    "Дослідження/Військові провали Росії 2000-2014_.docx",
+    "_Polityka-istoriia-kiberbezpeka/Stepan-banderas/50805d3cbc0d4a0c846ba5b709c9014c.webp"
   ]
 }
