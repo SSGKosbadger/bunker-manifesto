@@ -1,0 +1,6 @@
+{
+  "sortMode": "logical",
+  "includeNestedFolders": true,
+  "includeFoldersAsSections": true,
+  "removeYamlProperties": true
+}

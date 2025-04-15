@@ -1,0 +1,215 @@
+{
+  "main": {
+    "id": "1fa4c6a7e8ad8855",
+    "type": "split",
+    "children": [
+      {
+        "id": "09afb7ce8beb93da",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a5cbe1fb15158005",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "post-state/bigtech-power/soft-laws.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "soft-laws"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "70eeda154ee9c24e",
+    "type": "split",
+    "children": [
+      {
+        "id": "94a2f601d9bcc0d3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e18b2a05878d5a92",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловий менеджер"
+            }
+          },
+          {
+            "id": "5a2ce0afa9a570bd",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Пошук"
+            }
+          },
+          {
+            "id": "7b31062ad45037d8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0fe9fcd80944f1aa",
+    "type": "split",
+    "children": [
+      {
+        "id": "b7625144f583d7ca",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f3cabc004cc946f0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Зворотні посилання"
+            }
+          },
+          {
+            "id": "d76f8112ac467cb9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Вихідні посилання"
+            }
+          },
+          {
+            "id": "b532e02c9e44dfe2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Мітки"
+            }
+          },
+          {
+            "id": "93143d806f077709",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Вміст"
+            }
+          },
+          {
+            "id": "37c389128d373457",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Відкрити провідник файлів": false,
+      "graph:Граф": false,
+      "canvas:Створити нове полотно": false,
+      "daily-notes:Сьогоднішня нотатка": false,
+      "templates:Вставити шаблон": false,
+      "command-palette:Відкрити меню команд": false,
+      "obsidian-file-cleaner:Clean files": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "a5cbe1fb15158005",
+  "lastOpenFiles": [
+    "post-state/bigtech-power/README.md",
+    "post-state/bigtech-power/infrastructure-control.md",
+    "post-state/bigtech-power/info-domination.md",
+    "post-state/bigtech-power/black-budget.md",
+    "post-state/bigtech-power/ai-regime.md",
+    "psyops/russia-lost-ghosts.md",
+    "psyops/README.md",
+    "psyops/psychowar.md",
+    "military-failures/NATO-manifesto.md",
+    "upa-sbu/structure.md",
+    "upa-sbu/README.md",
+    "upa-sbu/methods.md",
+    "upa-sbu/evolution.md",
+    "upa-sbu/comparative-analysis.md",
+    "gray-memory-tactics.md",
+    "gray_manifesto.md",
+    "ua-war/combat-performance/2023/krynky/planning.md",
+    "ua-war/combat-performance/2023/krynky/logistics.md",
+    "cyber-sec/cloud-risk-ops.md",
+    "cyber-sec/cloud-failures.md",
+    "series-global-psyop.md",
+    "README.md",
+    "index.md",
+    "blocking-censorship/dsr-letter.md",
+    "blocking-censorship",
+    "usa/trump/deep-state-vs-truth.md",
+    "usa/trump/README.md",
+    "cyber-sec",
+    "nato-fails",
+    "ua-war",
+    "china",
+    "usa"
+  ]
+}
