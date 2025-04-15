@@ -25,10 +25,14 @@
             "id": "0eeb28fe3a2b2bb5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "military-failures/operatsiia-just-cause.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Нова вкладка"
+              "title": "operatsiia-just-cause"
             }
           }
         ],
@@ -190,6 +194,11 @@
   },
   "active": "0eeb28fe3a2b2bb5",
   "lastOpenFiles": [
+    "military-failures/operatsiia-“paula”-—-den-koly-liuftvaffe-vtratyla-viinu-za-hodynu.md",
+    "military-failures/operational-fuckups.md",
+    "military-failures/nato-manifesto.md",
+    "military-failures/nato-i-bombarduvannia-kytaiskoho-posolstva-v-belhradi-1999.md",
+    "military-failures/izrailskyi-fakap-u-livani-1982.md",
     "gaza/protesty-v-hazi-proty-khamasu.md",
     "gaza/protesty-v-hazi-analiz-ekspertiv.md",
     "gaza/protesty-v-hazi-proty-khamasu-1.md",
@@ -211,11 +220,6 @@
     "usa/Immihratsiina-polityka-Toma-Khomana_-1.md",
     "usa/Media-Messaging-on-Trump-Protests_-1.md",
     "usa/Pit-Khehset_-analiz-oboronnoi-roli_-1.md",
-    "usa/Pamela-Bondi_-kar_iera-ta-superechky_-1.md",
-    "USA/Pentagon-Leak-Search-Parameters_.md",
-    "usa/Pentagon-Leak-Search-Parameters_-1.md",
-    "USA/pozytsiiu-Konhresu,-NATO,-YeS,-Kytaiu-ta-Saudivskoi-A-1.md",
-    "USA/Prohnozy-Zakhodu_-SShA,-Ukraina,-Yevropa,-Kytai_.md",
     "news",
     "Дослідження/YouTube_ політичні закриття каналів_(1).docx",
     "Дослідження/YouTube_ політичні закриття каналів_.docx",
