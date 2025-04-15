@@ -69,4 +69,6 @@ Conclusion
 
 This letter is part of a public initiative aimed at preserving digital rights in the era of automated censorship.
 
-Contact: [Your contact, or leave a placeholder for signing]
+Sincerely,  Yedamenko Kostyantyn  
+Email for contact: kos75@proton.me
+Email linked to affected YouTube account: yedamenko@gmail.com
